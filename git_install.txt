@@ -1,0 +1,3 @@
+install.packages("devtools")                         # 首先安装 devtools 包
+devtools::install_github("GuangchuangYu/nCov2019")	#直接安装
+devtools::install_local("nCov2019-master.zip")	#本地安装
