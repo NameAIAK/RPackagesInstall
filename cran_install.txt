@@ -1,0 +1,5 @@
+install.packages('NMF')
+
+下载安装包：https://mirror.las.iastate.edu/CRAN/bin/windows/contrib/4.4/NMF_0.28.zip
+install.packages('F:/R包/NMF_0.28.zip')
+
